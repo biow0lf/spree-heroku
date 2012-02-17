@@ -16,6 +16,7 @@ Add this to your project Gemfile (before spree gem):
 
 <pre>
 gem 'aws-s3'
+gem 'aws-sdk'
 </pre>
 
 And this, somewhere after spree gem
